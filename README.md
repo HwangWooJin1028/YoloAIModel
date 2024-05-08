@@ -1,2 +1,14 @@
 # YoloAIModel
-Yolov5를 이용하여 모델을 학습하고 활용한다
+  - Yolov5를 이용하여 모델을 학습하고 활용한다.
+
+## 산불 방지 모델 - 연기 탐지 모델
+  - https://github.com/HwangWooJin1028/YoloAIModel/blob/main/colab/smoke%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
+
+## 주차 공간 탐지 모델
+  - https://github.com/HwangWooJin1028/YoloAIModel/blob/main/colab/PKlot%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
+
+## 안전모 탐지 모델
+  - https://github.com/HwangWooJin1028/YoloAIModel/blob/main/colab/hardhat%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
+
+## 포트홀 탐지 모델
+  - https://github.com/HwangWooJin1028/YoloAIModel/blob/main/colab/potHole%ED%83%90%EC%A7%80.ipynb
