@@ -7,6 +7,7 @@
 ## 산불 방지 모델 - 연기 탐지 모델
   - https://github.com/HwangWooJin1028/YoloAIModel/blob/main/colab/smoke%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
   - 연기를 탐지하여 산불을 방지하는 모델이다.
+  - <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />
 <br/> <br/> <br/> <br/> 
 ## 주차 공간 탐지 모델
   - https://github.com/HwangWooJin1028/YoloAIModel/blob/main/colab/PKlot%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
