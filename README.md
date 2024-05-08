@@ -3,7 +3,7 @@
 
 ## 산불 방지 모델 - 연기 탐지 모델
   - https://github.com/HwangWooJin1028/YoloAIModel/blob/main/colab/smoke%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
-
+\n\n\n\n\n
 ## 주차 공간 탐지 모델
   - https://github.com/HwangWooJin1028/YoloAIModel/blob/main/colab/PKlot%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb
 
