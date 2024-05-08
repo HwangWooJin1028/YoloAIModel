@@ -2,7 +2,7 @@
   - Yolov5를 이용하여 모델을 학습하고 활용한다.
   - Github에 있는 YOLOv5 코드를 이용하여 모델을 학습한다.
   - roboflow에 있는 데이터셋을 code로 다운로드 하여 학습데이터를 마련한다
-     - [<img src="https://img.shields.io/badge/roboflow-8315f9;.svg?style=for-the-badge&logo=googlecolab&logoColor=#8315f9"/>](https://roboflow.com/)
+     - [<img src="https://img.shields.io/badge/roboflow-8315f9;.svg?style=for-the-badge&logo=roboflow&logoColor=#8315f9"/>](https://roboflow.com/)
 <br/> <br/> 
 ## 산불 방지 모델 - 연기 탐지 모델
   - 연기를 탐지하여 산불을 방지하는 모델<br/>
